@@ -47,7 +47,7 @@ This notebook:
 
 ## 🔐 API Access
 
-This example uses the **Google Places API**. Set your API key as an environment variable:
+This example uses the **Google Places (New) API**. Set your API key as an environment variable:
 
 ```bash
 export GOOGLE_API_KEY=your_key_here

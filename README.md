@@ -1,7 +1,7 @@
 
 # 🗺️ Locating the Forgotten Data Type: Intro to Geospatial Analysis with Python
 
-Welcome! This repository supports a talk given at the Python Meetup 2025, titled:
+Welcome! This repository supports a talk given at the Python Athens Meetup, June 2025, titled:
 
 > **"Locating the Forgotten Data Type: Intro to Geospatial Analysis with Python"**  
 > By Haris Ballis
